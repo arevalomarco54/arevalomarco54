@@ -2,9 +2,11 @@
 
 MIT · performance engineering · machine learning · ML perf
 
-I build things.
+Always interested in designing anything and learning new stuff.
 
 ---
 
 `arevalomarco8@gmail.com`  
 `marcoa54@mit.edu`
+
+Website: loading
