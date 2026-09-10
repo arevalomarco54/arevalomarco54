@@ -1,4 +1,4 @@
-# Marco Arevalo
+## Marco Arevalo
 
 MIT · performance engineering · machine learning · ML perf
 
